@@ -266,12 +266,6 @@
         (fill (type background))
       )
     )
-    (symbol "ItsyBitsy_NRF52840_Big_1_0"
-      (pin input line (at -13.97 -10.16 0) (length 5.08)
-        (name "" (effects (font (size 1.27 1.27))))
-        (number "" (effects (font (size 1.27 1.27))))
-      )
-    )
     (symbol "ItsyBitsy_NRF52840_Big_1_1"
       (pin input line (at -13.97 24.13 0) (length 5.08)
         (name "Reset" (effects (font (size 1.27 1.27))))
