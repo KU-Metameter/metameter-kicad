@@ -2450,7 +2450,7 @@
     (property "Value" "250mA Fuse" (at 99.06 170.815 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "502ProjectFootprints:LF124061_1" (at 92.075 161.925 0)
+    (property "Footprint" "502ProjectFootprints:LF124061_3" (at 92.075 161.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 92.075 161.925 0)
