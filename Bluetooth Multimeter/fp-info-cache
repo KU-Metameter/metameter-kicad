@@ -1,4 +1,4 @@
-21601299583717636
+21611379391368680
 502ProjectFootprints
 1776-C68-1
 9M to 1k Precision Resistor Divider Network
@@ -6,6 +6,13 @@ Resistor Network
 0
 6
 6
+502ProjectFootprints
+D_DO-35_SOD27_P5.08mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
 502ProjectFootprints
 ItsyBitsy
 Adafruit ItsyBitsy nRF52840 Express
@@ -36,10 +43,24 @@ LF124041_3
 4
 502ProjectFootprints
 LF124041_4
-10 A Fuse Clips Empirical Oval Drill
+10 A Fuse Clips Empirical Oval Drill Modified Pads
 
 0
 4
+4
+502ProjectFootprints
+LF124041_5
+10 A Fuse Clips Empirical Oval Drill Modified Pads, 3 circles
+
+0
+12
+4
+502ProjectFootprints
+LF124041_6
+10 A Fuse Clips Empirical Oval Drill Modified Pads, 3 circles
+
+0
+12
 4
 502ProjectFootprints
 LF124061_1
@@ -91,6 +112,13 @@ Through hole pin header THT 1x01 2.54mm single row
 1
 1
 502ProjectFootprints
+PinHeader_1x01_P2.54mm_Vertical_H0.9mm
+Through hole straight pin header, 1x01, 2.54mm pitch, single row, 0.8mm drill
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+502ProjectFootprints
 PinHeader_1x02_P2.54mm_Vertical_H0.9mm
 Through hole straight pin header, 1x02, 2.54mm pitch, single row, 0.9mm drill
 Through hole pin header THT 1x02 2.54mm single row
@@ -98,7 +126,21 @@ Through hole pin header THT 1x02 2.54mm single row
 2
 2
 502ProjectFootprints
+PinHeader_1x02_P2.54mm_Vertical_H1.0mm
+Through hole straight pin header, 1x02, 2.54mm pitch, single row, 0.9mm drill
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+502ProjectFootprints
 PinHeader_1x14_P2.54mm_Vertical_H0.9mm
+Through hole straight pin header, 1x14, 2.54mm pitch, single row, 0.9mm drill
+Through hole pin header THT 1x14 2.54mm single row
+0
+14
+14
+502ProjectFootprints
+PinHeader_1x14_P2.54mm_Vertical_H1.0
 Through hole straight pin header, 1x14, 2.54mm pitch, single row, 0.9mm drill
 Through hole pin header THT 1x14 2.54mm single row
 0
